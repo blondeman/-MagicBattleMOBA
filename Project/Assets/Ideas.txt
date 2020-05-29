@@ -1,0 +1,32 @@
+floating 3d platforms
+to kill players you must push them off the map
+attacks can be combined with elementals to create new attacks
+eg.
+bomb attack with fire elemental becomes fire bomb
+punch attack with ice elemental becomes ice punch
+
+elements can also be combined
+
+elements:
+fire: applies dot damage, removes ice effect
+ice: causes enemies to attack slower, removes fire effect
+air: high knockback, low damage
+earth: high damage, low knockback
+
+team based fights
+each player starts with a set amount of lives
+each palyer starts with one element and one attack
+everytime a player on your team dies, you get to choose a new element, or attack
+
+combinations:
+---fire---
+ice: creates steam, which can be used on a teammate to remove ice and fire effects
+air: low damage, medium knockback, causes dot damage
+earth: low knockback, medium damage, causes dot damage
+
+---ice---
+air: low damage, medium knockback, causes attack slow
+earth: low knockback, medium damage, causes attack slow
+
+---air---
+earth: results in medium knockback and damage
